@@ -2,10 +2,10 @@
 
 The ideal way to use `yes` is to fork this repo and host it on `<activity>.<domain>`, and make a sheet in shared Google Sheet with name `domain` eg: aashutosh.dev and Column Structure like below
 
-activity	        doingIt?
------------------------------
-is-sleeping	        No
-is-covid-positive	Not yet
+| activity  | doingIt? |
+|---|---|
+| is-sleeping | No |
+| is-covid-positive  | Not yet  |
 
 For eg. `is-sleeping.aashutosh.dev` would result in a big `No!` as per above data.
 
