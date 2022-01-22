@@ -2,6 +2,8 @@
 
 The ideal way to use `yes` is to fork this repo and host it on `<activity>.<domain>`, and make a sheet in shared Google Sheet with name `domain` eg: aashutosh.dev and Column Structure like below
 
+Also, please replace `sheetId` in `index.js` with your `sheetId` from SheetDB.io
+
 | activity  | doingIt? |
 |---|---|
 | is-sleeping | No |
