@@ -1,4 +1,4 @@
-# yes
+# is-doing-x.user.domain
 
 The ideal way to use `yes` is to fork this repo and host it on `<activity>.<domain>`, and make a Google Sheet Tab with name `domain` eg: aashutosh.dev and Column Structure like below
 
